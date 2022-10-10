@@ -1,1 +1,1 @@
-script 0 prints hello world
+shell i/o redirections
